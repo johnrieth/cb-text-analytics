@@ -1,6 +1,6 @@
 # New Zealand Reserve Bank
 
-The folder contains Official Cash Rate statements from the New Zealand Reserve Bank
+The folder contains Official Cash Rate (OCR) statements from the New Zealand Reserve Bank
 
 
 ## Official Cash Rate
